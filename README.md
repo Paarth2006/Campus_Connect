@@ -9,7 +9,10 @@ A Kotlin Multiplatform student companion app for managing academic life across A
 <p align="center">
   <img src="App_ScreenShots/Home_Screen.png" width="250"/>
   <img src="App_ScreenShots/Announcement_Screen.png" width="250"/>
-  <img src="screenshots/Profile_Screen.png" width="450"/>
+  <img src="App_ScreenShots/Profile_Screen.png" width="250"/>
+  <img src="App_ScreenShots/Settings_Screen.png" width="250"/>
+  <img src="App_ScreenShots/Help_Support_Screen.png" width="250"/>
+  <img src="App_ScreenShots/About_Us_Screen.png" width="250"/>
 </p>
 
 ---
