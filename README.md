@@ -8,7 +8,7 @@ A Kotlin Multiplatform student companion app for managing academic life across A
 
 <p align="center">
   <img src="App_ScreenShots/Home_Screen.png" width="250"/>
-  <img src="App_ScreenShots/Announcements_Screen.png" width="250"/>
+  <img src="App_ScreenShots/Announcement_Screen.png" width="250"/>
   <img src="screenshots/Profile_Screen.png" width="450"/>
 </p>
 
