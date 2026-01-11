@@ -161,7 +161,11 @@ git clone https://github.com/Paarth2006/CampusConnect.git
 
 ## Demo
 
-Watch the demo video to get a gist of the app working 
+Watch the demo video to get a gist of the app working
+
+Login Credentials 
+
+Username : developer , Password : 1010
 
 https://github.com/Paarth2006/Campus_Connect/blob/main/App_demo_video.mp4
 
