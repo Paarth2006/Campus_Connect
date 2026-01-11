@@ -27,6 +27,15 @@ CampusConnect addresses this problem by consolidating core academic information 
 
 > This is a student-developed project and is **not an official university application**.
 
+## Motivation and Background 
+
+I am currently a Third-year Computer Science student who enjoys learning by building things rather than only studying theory. My academic journey has introduced me to core programming concepts, but most of my learning has happened through hands-on experimentation, debugging, and improving projects over time. Writing code, breaking it, and fixing it again is something I genuinely enjoy.
+App development is something I have interest in . I like working on applications where logic, design, and user experience come together. Outside of this project, I am also working on an iOS application as part of my personal learning process. . This experience made me curious about cross-platform solutions and eventually led me to explore Kotlin Multiplatform.
+
+The idea for CampusConnect came from observing everyday problems in campus environments. Information related to classes, updates, or student activities is often scattered across different platforms, making communication inefficient. I wanted to explore whether a single, simple application could act as a common point for such interactions, even if only as a prototype.
+This project was created specifically for the Kotlin Multiplatform Contest. The main goal was not to build a production-ready system, but to understand how shared business logic can be written once and reused across platforms while still allowing flexibility at the UI level. Kotlin Multiplatform felt like a natural choice because it encourages clean architecture and thoughtful separation of concerns.
+
+
 ---
 
 ## Features
@@ -175,6 +184,19 @@ The focus of this submission is correct and meaningful use of Kotlin Multiplatfo
 All data is currently stored locally and the application works offline.
 
 The architecture is intentionally designed to be extendable for persistence, synchronization, and real authentication in the future.
+
+## Future Steps
+
+Database Integration
+
+API Layer & Networking
+
+AI Integration 
+    1. Smart Announcement Summaries : Use an LLM API to summarize long notices into short points
+    2. Priority Notifications
+    
+Continuous UI Enhancements
+
 
 ## Licence
 
