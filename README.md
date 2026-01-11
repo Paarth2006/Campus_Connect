@@ -27,7 +27,9 @@ CampusConnect addresses this problem by consolidating core academic information 
 
 > This is a student-developed project and is **not an official university application**.
 
-## Motivation and Background 
+## Essay
+
+### Motivation and Background 
 
 I am currently a Third-year Computer Science student who enjoys learning by building things rather than only studying theory. My academic journey has introduced me to core programming concepts, but most of my learning has happened through hands-on experimentation, debugging, and improving projects over time. Writing code, breaking it, and fixing it again is something I genuinely enjoy.
 App development is something I have interest in . I like working on applications where logic, design, and user experience come together. Outside of this project, I am also working on an iOS application as part of my personal learning process. . This experience made me curious about cross-platform solutions and eventually led me to explore Kotlin Multiplatform.
