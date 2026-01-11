@@ -158,7 +158,7 @@ git clone https://github.com/Paarth2006/CampusConnect.git
 
 3. Click Run
 
-## Demo
+## Demo Video
 
 Watch the demo video to get a gist of the app working
 
