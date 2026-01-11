@@ -192,7 +192,9 @@ Database Integration
 API Layer & Networking
 
 AI Integration 
+
     1. Smart Announcement Summaries : Use an LLM API to summarize long notices into short points
+    
     2. Priority Notifications
     
 Continuous UI Enhancements
