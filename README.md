@@ -152,7 +152,9 @@ git clone https://github.com/Paarth2006/CampusConnect.git
 
 ## Demo
 
-A short screencast demonstrating the application running on both Android and Desktop is included in the repository.
+Watch the demo video to get a gist of the app working 
+
+https://github.com/Paarth2006/Campus_Connect/blob/main/App_demo_video.mp4
 
 ## Author
 
